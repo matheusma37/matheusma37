@@ -5,12 +5,12 @@
 # Welcome!
  
 ## I'm Matheus :v:!
-[![Ruby Badge](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)]()
-[![Rails Badge](https://img.shields.io/badge/Rails%20-%23CC0000.svg?&style=flat-square&logo=ruby-on-rails&logoColor=white)]()
-[![HTML5 Badge](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)]()
-[![CSS3 Badge](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)]()
-[![Javascript Badge](https://img.shields.io/badge/Javascript-yellow.svg?&style=flat-square&logo=javascript&logoColor=white)]()
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)]()
+[![Ruby Badge](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)](#)
+[![Rails Badge](https://img.shields.io/badge/Rails%20-%23CC0000.svg?&style=flat-square&logo=ruby-on-rails&logoColor=white)](#)
+[![HTML5 Badge](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)](#)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/Javascript-yellow.svg?&style=flat-square&logo=javascript&logoColor=white)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)](#)
 
 ## About me
  * 23 years old
