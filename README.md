@@ -13,6 +13,7 @@
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)](#)
 
 ## About me
+ * Brazilian :brazil:
  * 23 years old
  * Ruby guy
  * Learning something new every day
