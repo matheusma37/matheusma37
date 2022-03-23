@@ -14,11 +14,11 @@
 
 ## About me
  * Brazilian :brazil:
- * 23 years old
+ * 24 years old
  * Ruby guy
  * Learning something new every day
  * Code of quality is my goal
- * Bachelor's degree in Information Systems in progress
+ * Bachelor's degree in Information Systems
 
 ## Where to find me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheusma37)](https://github.com/matheusma37)
