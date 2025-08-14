@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/LqmVGgvWmGWvG4Rv0t/giphy.gif">
  
 # Welcome!
  
